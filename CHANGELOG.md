@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 21.05.2021
 
-* TODO: Describe initial release.
+* A beautiful widget that can be presented to the end user to prevent incorrect touches on the screen.
