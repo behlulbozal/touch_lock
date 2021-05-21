@@ -1,25 +1,21 @@
-
-
-
 # Touch Lock
-###  A beautiful widget that can be presented to the end user to prevent incorrect touches on the screen.
 
-<img src="assets/usage.gif" alt="drawing" width="200"/> 
+### A beautiful widget that can be presented to the end user to prevent incorrect touches on the screen.
+
+<img src="https://raw.githubusercontent.com/behlulbozal/touch_lock/main/assets/usage.gif" alt="drawing" width="200"/> 
+
 ##### It is a lock system for children. If you lock the screen, it will not be unlocked without marking the correct number.
-
-
 
 Look photos
 
-------------
+---
 
-
-#### Installation 
+#### Installation
 
     dependencies:
       touch_lock: ^0.0.1
 
-------------
+---
 
 #### Simple Usage
 
@@ -31,11 +27,9 @@ TouchLock(
     );
 ```
 
-------------
-
+---
 
 #### Advanced Usage
-
 
 ```dart
 TouchLock(
@@ -51,12 +45,13 @@ TouchLock(
     );
 ```
 
-------------
+---
 
 ###### Photos
-<img src="assets/1.jpeg" alt="drawing" width="200"/> <img src="assets/2.jpeg" alt="drawing" width="200"/> <img src="assets/usage.gif" alt="drawing" width="200"/>
 
-------------
+<img src="https://raw.githubusercontent.com/behlulbozal/touch_lock/main/assets/1.jpeg" alt="drawing" width="200"/> <img src="https://raw.githubusercontent.com/behlulbozal/touch_lock/main/assets/2.jpeg" alt="drawing" width="200"/> <img src="https://raw.githubusercontent.com/behlulbozal/touch_lock/main/assets/usage.gif" alt="drawing" width="200"/>
 
-Behlul Bozal 
+---
+
+Behlul Bozal
 behlulbozal@gmail.com

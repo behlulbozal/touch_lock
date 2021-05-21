@@ -1,6 +1,6 @@
 name: touch_lock
 description: A screen touch lock module for Flutter.It is a lock system for children. If you lock the screen, it will not be unlocked without marking the correct number.
-version: 0.0.2
+version: 0.0.3
 author: Behlul Bozal <behlulbozal@gmail.com>
 homepage: https://github.com/behlulbozal/touch_lock.git
 
