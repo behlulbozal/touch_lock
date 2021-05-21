@@ -54,7 +54,7 @@ TouchLock(
 ------------
 
 ###### Photos
-<img src="assets/1.jpg" alt="drawing" width="200"/> <img src="assets/2.jpg" alt="drawing" width="200"/> <img src="assets/usage.gif" alt="drawing" width="200"/>
+<img src="assets/1.jpeg" alt="drawing" width="200"/> <img src="assets/2.jpeg" alt="drawing" width="200"/> <img src="assets/usage.gif" alt="drawing" width="200"/>
 
 ------------
 
