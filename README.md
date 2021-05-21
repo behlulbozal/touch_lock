@@ -3,6 +3,12 @@
 
 # Touch Lock
 ###  A beautiful widget that can be presented to the end user to prevent incorrect touches on the screen.
+
+<img src="assets/usage.gif" alt="drawing" width="200"/> 
+##### It is a lock system for children. If you lock the screen, it will not be unlocked without marking the correct number.
+
+
+
 Look photos
 
 ------------
@@ -48,8 +54,7 @@ TouchLock(
 ------------
 
 ###### Photos
-![photo](https://i.ibb.co/WPxNph2/photo-2021-05-21-02-25-50.jpg)
-![photo](https://i.ibb.co/Wyr00DM/photo-2021-05-21-02-25-53.jpg)
+<img src="assets/1.jpg" alt="drawing" width="200"/> <img src="assets/2.jpg" alt="drawing" width="200"/> <img src="assets/usage.gif" alt="drawing" width="200"/>
 
 ------------
 
