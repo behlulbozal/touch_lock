@@ -1,4 +1,4 @@
-## [0.0.3] - 22.05.2021
+## [0.0.4] - 22.05.2021
 
 * Changeable numbers bug fixed.
 
