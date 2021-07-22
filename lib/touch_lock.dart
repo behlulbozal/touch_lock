@@ -111,6 +111,18 @@ class _TouchLockState extends State<TouchLock> {
             )
           ]),
     );
+    List numbers = [
+      'Zero',
+      'One',
+      'Two',
+      'Three',
+      'Four',
+      'Five',
+      'Six',
+      'Seven',
+      'Eight',
+      'Nine'
+    ];
     if (widget.lockButton != null) {
       lockButton = widget.lockButton;
     }
@@ -123,22 +135,12 @@ class _TouchLockState extends State<TouchLock> {
     if (widget.text != null) {
       text = widget.text;
     }
+    if (widget.numbers != null) {
+      numbers = widget.numbers;
+    }
 
     var rng = new Random();
-
-    if (numbers == null)
-      numbers = [
-        'Zero',
-        'One',
-        'Two',
-        'Three',
-        'Four',
-        'Five',
-        'Six',
-        'Seven',
-        'Eight',
-        'Nine'
-      ];
+    
     int firstNumber = rng.nextInt(10);
     int secondNumber = rng.nextInt(10);
     int trueButtonIndex = rng.nextInt(4) + 1;

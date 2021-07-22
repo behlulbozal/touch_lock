@@ -1,5 +1,9 @@
 ## [0.0.3] - 22.05.2021
 
+* Changeable numbers bug fixed.
+
+## [0.0.3] - 22.05.2021
+
 * Readme updated.
 
 ## [0.0.2] - 22.05.2021
